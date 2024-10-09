@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uts_fe_israruddin/static/css/main.7402d99f.css",
+    "main.js": "/uts_fe_israruddin/static/js/main.fd5573de.js",
+    "index.html": "/uts_fe_israruddin/index.html",
+    "main.7402d99f.css.map": "/uts_fe_israruddin/static/css/main.7402d99f.css.map",
+    "main.fd5573de.js.map": "/uts_fe_israruddin/static/js/main.fd5573de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7402d99f.css",
+    "static/js/main.fd5573de.js"
+  ]
+}
